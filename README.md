@@ -1,4 +1,4 @@
 buildwatch
 ==========
 
-buildwatch extreme feedback device
+buildwatch extreme feedback device - http://brmlab.cz/project/buildwatch
